@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+This is the begining... coding Python, C#, SQL, ....
